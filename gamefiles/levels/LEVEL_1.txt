@@ -1,0 +1,35 @@
+ 
+ 
+ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    P
+                    
+        S            
+========================================
+$BEGIN_TRANSMISSION.
+'1
+"Touch the Portal to enter the next level.@200&440
+"Use the ARROW KEYS to move (UP to jump). In the Pause Menu (P to Pause) you can switch between ARROW KEYS and WASD.@100&240
+_4

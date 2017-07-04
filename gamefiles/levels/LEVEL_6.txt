@@ -1,0 +1,42 @@
+ 
+ 
+ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                  P
+                           ===============
+                    
+                    
+                    
+                    
+                    
+                    
+                                                         =  
+                                              ~~~        ==  
+                                              | |        ===W!
+=============================================================!
+=                 |                     %                    !
+=                 X                     %                    !
+=                 |                     %                    !
+=                 X          =          %         =          !
+=                 |         ==          %        ==          !
+=       S         X        ===          %       ===          !
+==============================================================
+$Block Types
+'1
+"Use the MOUSE to fire shots and destroy blocks.@30&500
+"Press E to switch between weapons.@30&540
+"Reflective blocks can only be destroyed by bombs.@390&500
+"Bombs will explode upon contact with shots.@820&500
+"Touching a bomb will activate a countdown.@820&540
+"Water will flow freely over blocks.@1220&500
+"You can swim up and through water.@1220&540
+"Jump on trampoline blocks to bounce super high.@860&300
+"The surrounding blocks are unbreakable.@150&400
+_4

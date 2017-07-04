@@ -1,0 +1,32 @@
+                                  c
+                                   c
+                                 ccc
+                    
+                     c
+                      c
+                    ccc
+                                      c
+                                       c
+                  c                  ccc
+                   c         c             
+                 ccc          c             
+    c                       ccc           
+     c            
+   ccc                                       
+                      
+                             
+                               
+               
+             c                                     X    X    X    X
+      S       c                                                          P
+            ccc
+             
+              
+                                                  X
+           ^                                 X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X!XXX!XXX!XXX!XXX!XXX!XXX!XXX!XXX!XXX!XX!
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  
+$The Game of Life
+_7

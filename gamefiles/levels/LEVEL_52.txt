@@ -1,0 +1,32 @@
+ 
+ 
+ 
+                    
+                    c
+                    
+                    
+           ccccccccccccccccccc               cc
+                               c              cc
+                    cccccccccc                c
+            c        
+                    
+                    
+        ccccccc            cc
+                    c          ccccccccccccccc
+           c         
+              cc      c
+                    ccccccccccccccccc
+       cccccccccccccc             
+                    
+     ccccccccc               cccccccccccccccccc
+                    
+            c        
+                    ccccccc
+                    
+                                      cc
+                                     cc
+                                      c
+        S            
+========================================
+$RESTART?
++0x100y500

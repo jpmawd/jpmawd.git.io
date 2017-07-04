@@ -1,0 +1,33 @@
+ 
+ 
+ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                                                                                          P
+                                                                                                        IIIII
+                                                                                                        IIII
+                                                                                                        III
+                                                                &                                       II
+      i                                                         &                                                IIIII
+                                                                &                                                  II 
+                                                                &                                                   I
+       S        :::                                             &                                              
+              :::::::                                           &                                              IIII
+  ::        ::::::::::                 GG             i         &                LLLL                      I    II
+ :::::    :::::::::::::WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW::               =LL=                      I
+::::::::::::::::::::::::WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:::::             ==LL==                    III
+:::::::::::::::::::::::::WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:::::::           ==LLLL==                  IIIII
+:::::::::::::::::::::::::::::i::::::::::::::::::::::::::::::::::::::::::::::::===LffL===IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::====LffL====WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::==============WWWWWWWWWWWWWWWWWWWWWWWWWWWWW:
+========================================================================================================================
+$North Pole
+#360:{900,1600};
+_7

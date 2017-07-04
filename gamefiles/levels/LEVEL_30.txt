@@ -1,0 +1,36 @@
+                                                                                                            ======                                    =
+                                                                                                             ====                                     =
+                                                                                                              ==                                      =
+                                                                                                              ==                                      =
+                                                                                                              ==                                      =
+                                                                                                              ==                                      =
+                                                                                                              ==                                      =
+                                                                                                              ==                                      =
+                                                    {  [  (   =                                               ==                                      =
+                                                    B  B  B                                                   ==                                      =
+                                                                  =                                           ==                                      =
+                                                                       =                                      ==                                      =
+                3                                                                                             ==                                      =
+                                                                           =                                  ==                                      =
+                                  S                                                                           ==                                      =
+                                                                              =                               BB                                      =
+                                                                                %%         |||                BB                                      =
+                                                                                 %        |||||               BB                                      =
+                                                                     %%          %      |||||||||             BB                                      =
+                                                                      %          %       |     |              BB                                      =
+                                                                      %          %       |     |              BB                                 BBBBB=
+                                                                      %          %       |     |              BB                                BBBBBB=
+                                                                 %    %     %%   %       |     |              BB                               BBBPBBB=
+                                                                 %%   %     %            |     |              BB   ==                        ==========
+                                                                            %            |||||||              BB  ===                        ==========
+                            =LLLLL=                                         %       =~~=|||||||||BBBBBBBBBBBBBBB ===LLLLLLLLLLLLLLLLLLLLLLLLLL=========
+                        !               !    =LLLL=        !     =LLL=      %       ====              !          ===LLLLLLLLLLLLLLLLLLLLLLLLLL=========
+                                                                       !    %                                    ===LLLLLLLLLLLLLLLLLLLLLLLLLL=========
+                                                                            %                                    ===LLLLLLLLLLLLLLLLLLLLLLLLLL=========
+ 
+?360
+$MECHADRAGON
+C{AMMO,AMMO,HEALTH,HEALTH},{1000,1000,500,500},1860,480,0,-1,T
+#160:{2400,2800};
+^
+_1

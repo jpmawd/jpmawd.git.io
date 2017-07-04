@@ -1,0 +1,32 @@
+                          ff  ff  ff 
+                                                                                                                   G      G
+                                                                                                                                                   &        
+                                                                                     |        |\                    \XXXXXXXXXXXXXXXXXXX   
+                                                                                     |        |\\\\\\          \\\\\\XXXXXXXXXXXXXXXXXXXX  
+                                                                                     |  |||||||      \\\\\\\\\\      XXXXXXXXXXXXXXXXXuXXXX               G
+                                                                                     |        |                       WWXXXXXuXXXXXXXXXXXXXX
+                                                                                     |        |                       XXXXXXXXXXXXXXXXXXXXXX          &
+                                                                                     |||||||  |                        XXXXXXXXXXXXXXXXXXXXXX
+                                                                                     |        |                         XXXXXXXXXXXXXXXXXXXXXX
+                                                                                     |        |                          XXuXXXXXXuXXXXXXXXXXXX
+                                                           i                         |        |                          XXXXXXXXXXXXXXXXXXXXXX
+                                                                                     |  |||||||                           XXXXXXXXXXXXXXXXXXXXXX            &              &
+      G                                                  i                           |        |                           XXXXXXXXXXuXuXXXXXXXXX
+                                                                                     |     G  |                           XXXXXXXuXXXXXXXXXXXXXX
+                                                       i             ||||||          |        |           **               XXXXXXXXXXXXXXXXXXXXXX
+                                                                    ||||||||         |||||||  |          ****              XXXXXXXXXXXXXXXXXXXXXX
+                                                                     |    |                   |         ******             XXXXXXXXuXXXXXuuXXXXXX
+                             |||||||||||||||||||||                   |    |                   |        ********            XXXXXXXXXXXXXXXXXXXXXX
+                            ||||    |   |   |  ||||                  |    |                   |       **********           XXXXXXXXXXXXXXXXXXXXXX
+                        XXXXXXXX    XXXXXXXXX  XXXXXXXX              ||||||          ||||||||||      ************          XXXXXXXXXXXXXXXXXXXXXX                                P
+  G                       XXXXXX    XXXXxX      XXXXXX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   G   XXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXX
+            S               XXX       XXX         XXX    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXXXX            XXXXXXXXXX
+                                                         XXXuXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXXX                        XXXXXX
+      XXXXXXXXXXXXXXX                                    XXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXX                              XXX
+        XXuXXXuXXXX  G                         G         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXuXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+          XXXXX                                          XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+            XX                                           XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+$Ghost Town
+_9

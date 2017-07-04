@@ -1,0 +1,34 @@
+ 
+ 
+ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                           P
+                  ====  ======
+                     =  =
+                     =  =
+                     =  =
+                     =  =
+                     =  =
+                     =  =
+                     =  =
+                     =  =
+                    
+        S            
+========================================
+$Wall Jump
+'1
+"You can wall jump by pressing the opposite direction upon contact with a block.@40&200
+_4
