@@ -1319,4 +1319,3 @@ public float[] four1(float data[], int nn, int isign) {
   }
   return data;
 }
-

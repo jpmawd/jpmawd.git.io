@@ -75,10 +75,15 @@ ArrayList schemacsources;
 //SchemWire swire1;
 //SchemOUT sout1;
 
+boolean noArduino;
+
 void setup() {
   size(800, 500);
-  port = new Serial(this, "COM4", 9600);
-  port.bufferUntil('\n');
+  try {
+    port = new Serial(this, "COM4", 9600);
+  }
+  catch(Exception e) {noArduino = true;}
+  if(!noArduino) port.bufferUntil('\n');
   Arduino = loadImage("arduino_icon.png");
   Arduino.resize(0, 50);
   font = loadFont("EurostileBold-20.vlw");
@@ -226,6 +231,7 @@ void draw() {
 }
 
 void serialEvent(Serial port) {
+  if(noArduino) return;
   serialdata = port.readStringUntil('\n');
   serialsplit = (String[])split(serialdata, '_');
 }
@@ -237,6 +243,7 @@ boolean overArduino(float x, float y) {
   else return false;
 }
 void requestImport(String units) {
+  if(noArduino) return;
   port.write("request"+units);
   port.write('\n');
 }
@@ -631,7 +638,8 @@ class Sparks {
 
   void physics() {
     location.add(movement);
-    movement.mult(acceleration);
+    //movement.dot(acceleration);
+    movement = PVector.mult(movement,1.04,acceleration);
     omega = constrain(tan((movement.y)*(movement.x)*(acceleration.y)*(acceleration.x)), -.1, .1);
     thetao = thetao + omega;
   }
@@ -1521,4 +1529,3 @@ boolean bandWidth(float amplitudein, float amplitudeout) {
   }
   else return true;
 }
-
