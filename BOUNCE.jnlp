@@ -18,5 +18,5 @@
 		<jar href="BOUNCE.jar" />
 	</resources>
 
-	<application-desc main-class="Main" />
+	<application-desc main-class="bounce/Main" />
 </jnlp>
