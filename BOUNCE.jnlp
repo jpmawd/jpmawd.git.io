@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+"
+	codebase="https://jmawdsley.com/jpmawd.git.io/"
+	href="BOUNCE.jnlp">
+	<information>
+  		<title>BOUNCE</title>
+  		<vendor>eclipse.org</vendor>
+  		<homepage href="https://jmawdsley.com/jpmawd.git.io/" />
+  		<description>An original Java platform game.</description>
+	</information>
+
+	<security>
+		<all-permissions />
+	</security>
+
+	<resources>
+		<j2se version="1.4+" />
+		<jar href="controlexample.jar" />
+	</resources>
+
+	<application-desc main-class="Main" />
+</jnlp>
