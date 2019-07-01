@@ -4,7 +4,7 @@
 	href="BOUNCE.jnlp">
 	<information>
   		<title>BOUNCE</title>
-  		<vendor>eclipse.org</vendor>
+  		<vendor>jmawdsley.com</vendor>
   		<homepage href="https://jmawdsley.com/jpmawd.git.io/" />
   		<description>An original Java platform game.</description>
 	</information>
@@ -15,7 +15,7 @@
 
 	<resources>
 		<j2se version="1.4+" />
-		<jar href="controlexample.jar" />
+		<jar href="BOUNCE.jar" />
 	</resources>
 
 	<application-desc main-class="Main" />
